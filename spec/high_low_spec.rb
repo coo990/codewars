@@ -1,4 +1,4 @@
-require '/Users/chukaokoye-ahaneku/Projects/codewars/Ruby/8kyu/high_and_low.rb'
+require '/Users/chukaokoye-ahaneku/Projects/codewars/Ruby/7kyu/high_and_low.rb'
 
 describe 'High and low' do
   it 'returns high and low numbers of 5 and 1' do
